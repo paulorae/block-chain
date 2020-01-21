@@ -1,4 +1,4 @@
-# block_chain concept
+# Block Chain Concept
 
 To run:
 1. cmd
